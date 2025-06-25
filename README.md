@@ -23,11 +23,9 @@ short text.txt: Example text file for testing.
 
 🚀 How to Use
 1. Functional Version
-bash
-Kopieren
-Bearbeiten
-python text_processor.py
-2. Class-Based Version
+   
+‍‍‍‍```python text_processor.py```
+
 You can import and use TextProcessor class in your own scripts:
 
 python
