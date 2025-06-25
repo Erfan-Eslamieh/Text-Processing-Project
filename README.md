@@ -24,7 +24,10 @@ short text.txt: Example text file for testing.
 🚀 How to Use
 1. Functional Version
    
-‍‍‍‍```python text_processor.py```
+```bash
+python text_processor.py
+```
+
 
 You can import and use TextProcessor class in your own scripts:
 
