@@ -28,14 +28,15 @@ short text.txt: Example text file for testing.
 
 You can import and use TextProcessor class in your own scripts:
 
-python
-Kopieren
-Bearbeiten
+```
 from text_processor_class import TextProcessor
 
 processor = TextProcessor("short text.txt")
 processor.process()
 print(processor.word_count)
+```
+
+
 🛠 Requirements
 Python 3.6+
 
